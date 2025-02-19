@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 content we are adding again
+=======
+Adding some new content to the file
+>>>>>>> copybranch
